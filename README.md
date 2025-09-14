@@ -1,14 +1,16 @@
-I recently built a clone of the official RSMT (Rajarshi School of Management & Technology) website using HTML, CSS, and JavaScript. This project helped me strengthen my skills in:
+Technologies Used
+- **HTML5** – for website structure  
+- **CSS3** – for styling and layout  
+- **JavaScript** – simple carousel and year update  
+- **Google Fonts** – Inter font used  
 
-Responsive web design
+---
 
-Layout and styling with CSS
-
-Simple JavaScript functionality (carousel, dynamic year, etc.)
-
-This is a student-made demo clone for learning purposes. All images and content are placeholders.
-
-📂 Check out the code on GitHub:
-https://github.com/cloudmorph01/rsmt-clone-project
-
-💡 I built this project to improve my frontend development skills and explore building realistic, responsive websites.
+🔹 Features
+- Responsive navigation bar (desktop & mobile)  
+- Hero section with carousel for images (placeholder)  
+- About section with cards  
+- Programmes offered section  
+- Events / News section  
+- Contact & Enquiry form (frontend only)  
+- Footer with current year and info  
